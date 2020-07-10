@@ -1,7 +1,8 @@
 # LipMat
 Matlab Script for automated LC-MS/MS lipid analysis
 
-LipMat script is a set of tools for automated LC-MS/MS phospholipid analysis. Paper is in preparation and this section will be updated when it will be published. 
+LipMat script is a set of tools for automated LC-MS/MS phospholipid analysis. More information here:
+https://pubs.acs.org/doi/abs/10.1021/acsomega.9b03463
 
 Scripts starting with P are for generating lipid libraries. Scripts starting with AA, AB, AC, and AD are core LipMat script, and they should be run in alphabetical sequence. More information is in header of each script. 
 
@@ -25,6 +26,6 @@ Kochen, M. A. et al. Greazy: Open-Source Software for Automated Phospholipid Tan
 
 Witting, M., Ruttkies, C., Neumann, S. & Schmitt-Kopplin, P. LipidFrag: Improving reliability of in silico fragmentation of lipids and application to the Caenorhabditis elegans lipidome. PLoS One 12, e0172311 (2017).
 
-More information about the scoring system will be added after paper will be published. 
+
 Script was built under Matlab 2017b.
 
